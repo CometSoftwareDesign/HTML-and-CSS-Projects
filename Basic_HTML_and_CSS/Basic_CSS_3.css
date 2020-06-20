@@ -1,0 +1,13 @@
+table{
+border: 40px Green;
+}
+
+td:hover{
+background-color:Black;
+color:Red;
+}
+tr,th{
+background-color: CadetBlue;
+color: White;
+}
+
