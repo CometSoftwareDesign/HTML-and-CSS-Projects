@@ -297,7 +297,7 @@ width:50%
     font-family: 'Raleway', sans-serif;
 }
 
-.reservation input[type="text"].hover{
+.reservation input[type="text"]:hover {
     box-shadow: 0 0 18px rgba(100,65,0,0.8)
 
 }
@@ -324,7 +324,7 @@ width:50%
     text-decoration: underline;
 }
 
-.submit input[type="submit"]{
+.submit input[type="submit"] {
     color: rgb(225,225,225);
     cursor: pointer;
     border: none;
@@ -341,7 +341,7 @@ width:50%
     box-shadow: 1px 1px 4px 0 rgba(0,0,0,0.3);
 }
 
-.submit input[type="sumbit"]:hover{
+.submit input[type="sumbit"]:hover {
     color:#000;
     background-color: red;
     box-shadow: inset 1px 2px 15px 0 rgba(0,0,0,0.5)
