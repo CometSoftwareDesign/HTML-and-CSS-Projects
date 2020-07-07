@@ -1,0 +1,19 @@
+
+body{
+    background-color: lightblue;
+    color: darkblue;
+}
+
+
+.Photo img{
+width: 600px;
+height: 300px;    
+}
+.Photo{
+        position: relative;
+        border:2px;
+        border-style: dashed;
+        border-color: red;
+        
+    }
+
